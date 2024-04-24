@@ -1,2 +1,23 @@
 # WorkshopChecker
-Project Zomboid shows that 0mb is unsubscribed, but this is a program that allows you to easily find out what mode it is.
+
+[ EN ]
+## Function
+* Helps find 0mb unsubscribed workshop files in Project Zomboid.
+* Check the information of the workshop.
+
+## Other explanations
+* Code 1 - Normal
+* Code 9 - Private or Delete ※ Go to the site to check ※
+ * I haven't checked anything else.
+
+[ 한국어 ]
+
+## 기능
+* 프로젝트 좀보이드 에서 0mb 미구독중 인 워크샵 파일을 찾는데 도움을 줍니다.
+* 해당 워크샵의 정보를 확인 합니다.
+
+## 기타 설명
+*코드 1 - 정상
+*코드 9 - 비공개 or 삭제 ※ 사이트 들어가서 확인 필요 ※
+ * 이외 확인 안해봄.
+
