@@ -1,0 +1,17 @@
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\WorkshopChecker.exe
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\WorkshopChecker.deps.json
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\WorkshopChecker.runtimeconfig.json
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\WorkshopChecker.dll
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\WorkshopChecker.pdb
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.AssemblyInfoInputs.cache
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.AssemblyInfo.cs
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.csproj.CoreCompileInputs.cache
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.dll
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\refint\WorkshopChecker.dll
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.pdb
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.genruntimeconfig.cache
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\ref\WorkshopChecker.dll
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.csproj.AssemblyReference.cache
+D:\!yamang\WorkshopChecker\obj\Debug\net8.0\Workshop.E9B48F6F.Up2Date
