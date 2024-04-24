@@ -11,7 +11,7 @@
 ## Description
 * Code 1 - Normal
 * Code 9 - Private or Delete ※ Go to the site to check ※
- * I haven't checked anything else.
+  * I haven't checked anything else.
 
 # [ 한국어 ]
 
