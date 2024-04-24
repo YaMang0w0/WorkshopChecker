@@ -20,8 +20,8 @@
 * 해당 워크샵의 정보를 확인 합니다.
 
 ## 설명
-*코드 1 - 정상
-*코드 9 - 비공개 or 삭제 ※ 사이트 들어가서 확인 필요 ※
+* 코드 1 - 정상
+* 코드 9 - 비공개 or 삭제 ※ 사이트 들어가서 확인 필요 ※
  * 이외 확인 안해봄.
 
 project zomboid, zomboid, workshop, zomboid workshop 0mb, zomboid workshop unsubscribed
