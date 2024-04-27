@@ -9,9 +9,7 @@
 * Check the information of the workshop.
   
 ## Description
-* Code 1 - Normal
-* Code 9 - Private or Delete ※ Go to the site to check ※
-  * I haven't checked anything else.
+* If you have an orange background color, you should check out that workshop.
 
 # [ 한국어 ]
 
@@ -20,10 +18,9 @@
 * 해당 워크샵의 정보를 확인 합니다.
 
 ## 설명
-* 코드 1 - 정상
-* 코드 9 - 비공개 or 삭제 ※ 사이트 들어가서 확인 필요 ※
-  * 이외 확인 안해봄.
+* 주황색 배경색 이 있다면 해당 워크샵을 확인 해봐야 합니다.
 
 project zomboid, zomboid, workshop, zomboid workshop 0mb, zomboid workshop unsubscribed
 
-![image (3)](https://github.com/YaMang0w0/WorkshopChecker/assets/98645233/124008b3-1f6d-41b1-9e87-49b4ca85bc1c)
+![image](https://github.com/YaMang0w0/WorkshopChecker/assets/98645233/8c001455-9fd1-477f-b480-98567de8cd3d)
+
