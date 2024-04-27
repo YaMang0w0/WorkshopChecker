@@ -15,3 +15,4 @@ D:\!yamang\WorkshopChecker\obj\Debug\net8.0\ref\WorkshopChecker.dll
 D:\!yamang\WorkshopChecker\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\!yamang\WorkshopChecker\obj\Debug\net8.0\WorkshopChecker.csproj.AssemblyReference.cache
 D:\!yamang\WorkshopChecker\obj\Debug\net8.0\Workshop.E9B48F6F.Up2Date
+D:\!yamang\WorkshopChecker\bin\Debug\net8.0\Pastel.dll

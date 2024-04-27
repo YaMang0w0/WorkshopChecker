@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xuY4Gks/5eu/WCJN6StyeusSngOGMyn/EWnxHCXWLfcPh2Sjjh8PerktVpyNOcovKiFRLMVPKuEHnkUrUFka/w==",
+  "dgSpecHash": "aL1UEFr+xK9R5uL8HNNJKn3GkVDln2WDAlTzDrtgvCfpIT1euCbxxAq+R0HoibS/Re6aLOsAdC5yGB2j7EeTNA==",
   "success": true,
   "projectFilePath": "D:\\!yamang\\WorkshopChecker\\WorkshopChecker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\yaman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\yaman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\yaman\\.nuget\\packages\\pastel\\5.1.0\\pastel.5.1.0.nupkg.sha512"
   ],
   "logs": []
 }

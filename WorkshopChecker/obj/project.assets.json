@@ -14,6 +14,19 @@
             "related": ".xml"
           }
         }
+      },
+      "Pastel/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        }
       }
     }
   },
@@ -47,18 +60,39 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Pastel/5.1.0": {
+      "sha512": "jQ0fTkHZvgQsmbr5qU0IdCP1PWuUfmEmekIsTwysWK/iIwmT9Mbm0x5GpjYSTEwHTNVEpjYhBhyKVdzESgRCpg==",
+      "type": "package",
+      "path": "pastel/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.png",
+        "lib/net462/Pastel.dll",
+        "lib/net462/Pastel.xml",
+        "lib/net6.0/Pastel.dll",
+        "lib/net6.0/Pastel.xml",
+        "lib/net8.0/Pastel.dll",
+        "lib/net8.0/Pastel.xml",
+        "pastel.5.1.0.nupkg.sha512",
+        "pastel.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Newtonsoft.Json >= 13.0.3"
+      "Newtonsoft.Json >= 13.0.3",
+      "Pastel >= 5.1.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\yaman\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "D:\\!yamang\\WorkshopChecker\\WorkshopChecker.csproj",
       "projectName": "WorkshopChecker",
@@ -101,6 +135,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "Pastel": {
+            "target": "Package",
+            "version": "[5.1.0, )"
           }
         },
         "imports": [
