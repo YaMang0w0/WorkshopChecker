@@ -1,6 +1,6 @@
 # WorkshopChecker
 
-
+[Require .net 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.204-windows-x64-installer)
 
 # [ EN ]
 ## Function
